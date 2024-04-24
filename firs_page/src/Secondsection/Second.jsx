@@ -4,9 +4,9 @@ import Card from './Card'
 function Second() {
   return (
     <div className='secondContainer'>
-      <Card></Card>
-      <Card></Card>
-      <Card></Card>
+      <Card icon={<i className="fa-regular fa-lightbulb"></i>}></Card>
+      <Card icon={<i class="fa-solid fa-dollar-sign"></i>}></Card>
+      <Card icon={<i class="fa-solid fa-hand-holding-dollar"></i>}></Card>
 
     </div>
   )

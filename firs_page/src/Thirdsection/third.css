@@ -50,9 +50,6 @@ text-align: center;
 .thirdIcon{
     color: blue;
 }
-.fa-lightbulb{
-    font-size: 30px;
-}
 .cardText{
     display: flex;
     flex-direction: column;
@@ -82,4 +79,7 @@ text-align: center;
 .thirdSpan:hover{
 background-color:#0099e5 ;
 color: white;
+}
+.fa-lightbulb,.fa-cloud-moon,.fa-mountain-sun,.fa-spaghetti-monster-flying,.fa-calendar-days,.fa-desktop{
+    font-size: 30px; 
 }
