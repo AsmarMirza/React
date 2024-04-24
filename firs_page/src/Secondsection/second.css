@@ -1,0 +1,30 @@
+.secondContainer{
+    max-width: 100%;
+    display: flex;
+    height: auto;
+    padding: 100px 50px;
+    align-items: center;
+    justify-content: center;
+    background-color: #fafafa;
+}
+.secondCard{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    gap: 10px;
+   
+}
+.secondCards{
+    display: flex;
+    margin-left: 50px;
+}
+.icon{
+    font-size: 30px;
+    margin-right: 10px;
+    color: blue;
+}
+.secondText{
+    font-size: 14px;
+    line-height: 20px;
+    color: #848d92;
+}
